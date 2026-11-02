@@ -1,0 +1,5 @@
+{
+  "open_id": "填写授权账号的 open_id",
+  "item_ids": ["填写开放平台返回的 item_id"],
+  "interval_seconds": 300
+}
